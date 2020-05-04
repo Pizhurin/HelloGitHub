@@ -9,6 +9,8 @@ namespace HelloGitHub
             Console.WriteLine("Hello GitHub");
 
             Console.WriteLine("Add else one string");
+            
+            Console.WriteLine("Add else second string");
         }
     }
 }
