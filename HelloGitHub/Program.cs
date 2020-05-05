@@ -13,6 +13,8 @@ namespace HelloGitHub
             Console.WriteLine("Add else second string");
             
             Console.WriteLine("Third string was added by Erique83");
+
+            Console.WriteLine("Можно попробовать совместно проектик легкий соорудить");
         }
     }
 }
