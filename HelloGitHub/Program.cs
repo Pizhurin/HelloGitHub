@@ -11,6 +11,8 @@ namespace HelloGitHub
             Console.WriteLine("Add else one string");
             
             Console.WriteLine("Add else second string");
+            
+            Console.WriteLine("Third string was added by Erique83");
         }
     }
 }
